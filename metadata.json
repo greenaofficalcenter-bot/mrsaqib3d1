@@ -1,0 +1,5 @@
+{
+  "name": "Elemental Serenity",
+  "description": "An interactive 3D nature diorama and serene seasonal sanctuary built with WebGL and Three.js.",
+  "requestFramePermissions": []
+}
